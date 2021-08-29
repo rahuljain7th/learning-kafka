@@ -1,4 +1,4 @@
-package com.developercookie.kafka;
+package com.developercookie.kafka.producer;
 
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;
